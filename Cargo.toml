@@ -1,5 +1,5 @@
 [package]
-name = "rust_game_of_life"
+name = "rust_console"
 version = "0.1.0"
 edition = "2018"
 
@@ -7,3 +7,4 @@ edition = "2018"
 
 [dependencies]
 rand = "0.8.3"
+console_engine = "2.1.0"
